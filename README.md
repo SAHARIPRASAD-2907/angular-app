@@ -2,26 +2,26 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
 
-## Development server
+## What is Angular?
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Angular is a frontend Javascript framework
+- It helps with building interactive, modern web user interfaces
+- It is also a collection of tools and features CLI, Debugging tools, IDE Plugins
 
-## Code scaffolding
+## Why angular framework?
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Not required for simple application
+- For complex application the process of building complex, interactive web user interfaces
+- Can write declarative code
+- With just javascript you write imperative code
+  - Step by step instructions that tell the browser what to do
+- With angular we write declarative code
+  - Define the target UI states and how they change and let angular do the rest
 
-## Build
+1. Manage 'activeTab' state property
+2. Depending on activeTab, show different content
+3. Change 'activeTab' upon click on tab element
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Angular allows to simplify the process of building complex, interactive web user interfaces
+  - Write declarative code
+  - Separation of concerns via components
